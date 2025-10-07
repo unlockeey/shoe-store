@@ -1,0 +1,16 @@
+{
+  "name": "telegram-shoe-store",
+  "version": "1.0.0",
+  "description": "Intelligent Shoe Store with M-Pesa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["telegram", "shoe-store", "mpesa"],
+  "author": "Your Name",
+  "license": "MIT"
+}
